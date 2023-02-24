@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @betofuentes
-- 👀 I’m interested in front end technologies 
-- 🌱 I’m currently learning react JS
+- 👀 I’m a Salesforce developer 
 
 <!---
 betofuentes/betofuentes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
